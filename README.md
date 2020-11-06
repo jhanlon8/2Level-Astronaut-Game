@@ -8,3 +8,4 @@ This is a 2 level Astronaut game built in Unity.  You are a astronaut trying to 
 <img width="881" alt="Level 1" src="https://user-images.githubusercontent.com/71845592/98401533-ae461880-201a-11eb-80a3-54d85fd007a3.png">
 
 ## Level 2, Enemies & Coins
+<img width="880" alt="Level 2" src="https://user-images.githubusercontent.com/71845592/98401582-c6b63300-201a-11eb-828f-12561fb0543e.png">
